@@ -1,0 +1,2 @@
+
+"info on streaming files correctly in nodejs":http://elegantcode.com/2011/04/06/taking-baby-steps-with-node-js-pumping-data-between-streams/

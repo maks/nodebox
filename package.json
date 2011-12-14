@@ -1,0 +1,19 @@
+{
+    "name": "mkedit",
+    "version" : "0.0.1",
+    "description": "A webapp for text editing",
+    "author": {
+        "name": "Maksim Lin",
+        "email": "maks@manichord.com",
+        "url": "http://manichord.com"
+    },
+    "main": "server.js",
+    "dependencies": {
+        "express" : ">= 2.5.0",
+        "mkslogger" : ""
+    },
+    "devDependencies": {
+        "vows": ""
+    },
+  "engine": "node 0.6.x"
+}
