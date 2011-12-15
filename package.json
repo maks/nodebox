@@ -9,7 +9,6 @@
     },
     "main": "server.js",
     "dependencies": {
-        "express" : ">= 2.5.0",
         "mkslogger" : ""
     },
     "devDependencies": {
